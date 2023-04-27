@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="msg">House of Cards</string>
+    <string name="temp_ep">S1:EP4</string>
+    <string name="min">10:30</string>
+    <string name="min_fim">40:00</string>
+</resources>
